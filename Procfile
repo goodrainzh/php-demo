@@ -1,0 +1,1 @@
+web: crontab cron.txt && cron  && vendor/bin/heroku-php-apache2
